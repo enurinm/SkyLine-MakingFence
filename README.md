@@ -14,12 +14,12 @@ Use the tree structure to get the skyline.
 
 #### Example Input
 6 *//the total number of wooden boards*  
-15 8 4 *//wooden boards 1*  
-10 8 3 *//wooden boards 2*  
-25 3 7 *//wooden boards 3*  
-3 9 5 *//wooden boards 4*  
-1 5 3 *//wooden boards 5*  
-7 2 2 *//wooden boards 6*  
+15 8 4 *//wooden board 1*  
+10 8 3 *//wooden board 2*  
+25 3 7 *//wooden board 3*  
+3 9 5 *//wooden board 4*  
+1 5 3 *//wooden board 5*  
+7 2 2 *//wooden board 6*  
 
 #### Example Output
 5  
