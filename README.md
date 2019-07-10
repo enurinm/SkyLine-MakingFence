@@ -12,6 +12,8 @@ Use the tree structure to get the skyline.
   - The number of remaining wooden boards (minimum number of wooden boards that make up the case) and the name of the remaining wooden boards are printed.
 ```
 
+# Usage
+
 #### Example Input
 6 *//the total number of wooden boards*  
 15 8 4 *//wooden board 1*  
